@@ -6,8 +6,6 @@
 
 ## 🌐・Command and Control (C2) Infrastructure :
 
----
-
 **Iris C2** is a **next-generation C2 infrastructure**, designed to orchestrate **botnets** and/or **dedicated servers** with **remarkable efficiency**. The goal? To stealthily **steal sensitive information** without the victims' knowledge and send it to a central server equipped with the following powerful tools:
 - **🖥️ RAT** (Remote Access Trojan) : Full control over infected systems.
 - **🔐 Stealer** : Secure theft of sensitive data such as passwords, tokens, etc.
