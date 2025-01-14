@@ -29,9 +29,9 @@ Iris C2 is equipped with several powerful tools to ensure efficient exploitation
 ### 🕶️・**Discretion and Security** :
 The Iris C2 infrastructure uses **advanced technologies** to ensure **invisibility and undetectability**:
 
-- **Advanced Obfuscation** 🔒: Makes the code hard to analyze and detect.
-- **Dropper** 🛑: Deploys malware without being detected.
-- **Ultra-Efficient Parsing** 🧹: Circumvents security mechanisms to avoid detection.
+- 🔒・**Advanced Obfuscation** : Makes the code hard to analyze and detect.
+- 🛑・**Dropper** : Deploys malware without being detected.
+- 🧹・**Ultra-Efficient Parsing** : Circumvents security mechanisms to avoid detection.
 
 <p align="center">
   <img src="https://github.com/mael0salah/MAEL0SALAH/blob/main/LINE.PNG?raw=true" />
