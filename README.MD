@@ -18,5 +18,5 @@ Iris C2 est une infrastructure C2 ultra moderne, pensée pour coordonner des bot
 </p>
 
 <p align="center">
-  <img src="https://github.com/mael0salah/IRIS-C2/blob/main/BANNER.PNG?raw=true" />
+  <img src="https://github.com/mael0salah/IRIS-C2/blob/main/BANNER.png?raw=true" />
 </p>
