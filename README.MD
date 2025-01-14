@@ -70,5 +70,3 @@ Iris C2 ensures that all **operations remain completely undetected**. The system
 ### 📜・Credits :
 
 Special thanks to all the **founders**, **contributors**, and **community members** for their **valuable insights** and **collaboration**. 🌟
-
----
