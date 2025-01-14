@@ -4,10 +4,6 @@
   <img src="https://github.com/mael0salah/MAEL0SALAH/blob/main/LINE.PNG?raw=true" />
 </p>
 
-<p align="center">
-  <img src="https://github.com/mael0salah/MAEL0SALAH/blob/main/LINE.PNG?raw=true" />
-</p>
-
 <h2>
 Iris C2 is a latest generation C2 infrastructure, designed to orchestrate botnets and/or dedicated servers with remarkable efficiency.
 The objective? Steal sensitive data without the victims' knowledge and transmit it to a central server equipped with a: **RAT**, **Stealer**, and a **Silent Crypto-Miner XMR**.
