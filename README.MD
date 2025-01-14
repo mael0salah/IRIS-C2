@@ -57,3 +57,11 @@ The **C2** server centralizes the sending of commands to **infected agents** or 
 - **Advanced Obfuscation** to avoid code analysis.
 - **Dropper System** to evade detection during deployment.
 - **Ultra-Efficient Parsing** to bypass security mechanisms and avoid detection by antivirus programs.
+
+### ⚠️ **Disclaimer**  
+**Iris C2** is intended solely for **educational purposes**. We do not condone or support illegal activities, and any misuse of this tool is **solely the responsibility of the user**. It is crucial that you adhere to the ethical use of the knowledge shared and always respect privacy laws.
+
+---
+
+### 📜 **Credits**  
+Special thanks to all founder and community members for their insights and collaboration.
