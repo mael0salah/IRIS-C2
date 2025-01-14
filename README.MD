@@ -4,9 +4,9 @@
   <img src="https://github.com/mael0salah/MAEL0SALAH/blob/main/LINE.PNG?raw=true" alt="Separator Line" />
 </p>
 
-<h2 align="center">
+```
   Iris C2 est une infrastructure C2 de dernière génération, conçue pour orchestrer des botnets et/ou des serveurs dédiés avec une efficacité remarquable. L'objectif ? Subir un vol de données sensibles à l'insu des victimes et les transmettre à un serveur central équipé de puissants outils : **RAT**, **stealer**, et un **crypto-miner XMR silencieux**. Ces outils permettent une exploitation optimale et discrète des ressources. Le serveur C2 gère à distance les agents infectés et les serveurs dédiés avec une précision inégalée. Tout cela reste invisible et indétectable, grâce à une obfuscation avancée et à un système sophistiqué de **dropper** et de **parsing**. Rien ne laisse de trace.
-</h2>
+```
 
 <p align="center">
   <img src="https://github.com/mael0salah/MAEL0SALAH/blob/main/LINE.PNG?raw=true" alt="Separator Line" />
