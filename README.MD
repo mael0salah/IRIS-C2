@@ -67,6 +67,8 @@ Iris C2 ensures that all **operations remain completely undetected**. The system
 
 **Iris C2** is intended solely for **educational purposes**. We strongly **discourage illegal use** of this tool. Misuse of this infrastructure is **solely the responsibility of the user**. Always adhere to ethical practices, respect privacy laws, and never engage in malicious activity.
 
+---
+
 ### 📜・Credits :
 
 Special thanks to all the **founders**, **contributors**, and **community members** for their **valuable insights** and **collaboration**. 🌟
