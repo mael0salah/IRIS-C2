@@ -1,69 +1,74 @@
 <h1 align="center">Iris C2 🚀</h1>
 
 <p align="center">
-  <img src="https://github.com/mael0salah/MAEL0SALAH/blob/main/LINE.PNG?raw=true" />
+  <img src="https://github.com/mael0salah/MAEL0SALAH/blob/main/LINE.PNG?raw=true" alt="Line" />
 </p>
 
 ## 🌐・Command and Control (C2) Infrastructure :
 
-**Iris C2** is a **next-generation C2 infrastructure**, designed to orchestrate **botnets** and/or **dedicated servers** with **remarkable efficiency**. The goal? To steal **sensitive information** without the victims' knowledge and send it to a central server equipped with the following tools:
-- **RAT** (Remote Access Trojan)
-- **Stealer** (for data theft)
-- **Crypto-Miner XMR** (for silent Monero mining)
+**Iris C2** is a **next-generation C2 infrastructure**, designed to orchestrate **botnets** and/or **dedicated servers** with **remarkable efficiency**. The goal? To stealthily **steal sensitive information** without the victims' knowledge and send it to a central server equipped with the following powerful tools:
+- **🖥️ RAT** (Remote Access Trojan) : Full control over infected systems.
+- **🔐 Stealer** : Secure theft of sensitive data such as passwords, tokens, etc.
+- **💰 Crypto-Miner XMR** : Stealthy Monero mining using the infected machine.
 
-All of this ensures **optimal and discreet** exploitation of the infected machine(s) or server(s).
+These tools work together to ensure **optimal exploitation** of infected machines or servers, all while staying **undetected**. 🔒
 
 <p align="center">
-  <img src="https://github.com/mael0salah/MAEL0SALAH/blob/main/LINE.PNG?raw=true" />
+  <img src="https://github.com/mael0salah/MAEL0SALAH/blob/main/LINE.PNG?raw=true" alt="Line" />
 </p>
 
 ## 🛠️・Features :
 
-Iris C2 is equipped with several powerful tools to ensure efficient exploitation of infected resources:
+Iris C2 is packed with an arsenal of **advanced features** for efficient and discreet exploitation:
 
 ### 🧑‍💻・**Main Tools** :
-- **RAT** : Full remote access to infected machines.
-- **Stealer** : Theft of sensitive information such as passwords, tokens, etc.
-- **Crypto-Miner XMR** : Monero mining on infected machines.
+
+- **🖥️ RAT** : Gain **full remote access** to the infected machines, execute commands, and control the system.
+- **🔐 Stealer** : Extract **confidential data** such as passwords, tokens, and other private information.
+- **💰 Crypto-Miner XMR** : Silent **Monero mining**, harnessing the power of compromised systems to generate profit.
 
 ### 🕶️・**Discretion and Security** :
-The Iris C2 infrastructure uses **advanced technologies** to ensure **invisibility and undetectability**:
+Maintaining **invisibility** is a core feature of **Iris C2**. The system employs the latest **security evasion techniques** to stay undetectable:
 
-- 🔒・**Advanced Obfuscation** : Makes the code hard to analyze and detect.
-- 🛑・**Dropper** : Deploys malware without being detected.
-- 🧹・**Ultra-Efficient Parsing** : Circumvents security mechanisms to avoid detection.
+- 🔒 **Advanced Obfuscation** : Makes the malicious code **virtually invisible** to analysis tools.
+- 🛑 **Dropper** : Deploys the malware on the victim’s system **without triggering any alarms**.
+- 🧹 **Ultra-Efficient Parsing** : Circumvents detection by security software and firewalls, ensuring smooth execution.
 
 <p align="center">
-  <img src="https://github.com/mael0salah/MAEL0SALAH/blob/main/LINE.PNG?raw=true" />
+  <img src="https://github.com/mael0salah/MAEL0SALAH/blob/main/LINE.PNG?raw=true" alt="Line" />
 </p>
 
-## 🖥️・**Remote Management** :
+## 🖥️・Remote Management :
 
-The **C2** server centralizes the sending of commands to **infected agents** or **dedicated servers**. This allows **full remote control** with autonomous management of infected resources, all in **real-time**.
+The **C2 server** acts as the **centralized brain**, sending **real-time commands** to the infected agents and servers. This enables **full remote control** and **autonomous management** of compromised resources:
 
 ### 📡・**System Commands** :
-- Sends commands remotely to infected agents.
-- Updates and manages infected dedicated servers.
-- Automates the infection and exploitation processes.
+- Sends **remote commands** to agents and infected systems.
+- Manages and updates the **dedicated servers**.
+- Automates the entire **infection and exploitation process**.
 
 <p align="center">
-  <img src="https://github.com/mael0salah/MAEL0SALAH/blob/main/LINE.PNG?raw=true" />
+  <img src="https://github.com/mael0salah/MAEL0SALAH/blob/main/LINE.PNG?raw=true" alt="Line" />
 </p>
 
-## 🏴‍☠️・**Invisibility and Undetectability** :
+## 🏴‍☠️・Invisibility and Undetectability :
 
-**Iris C2** ensures that **all operations remain undetectable** through advanced masking techniques. The infrastructure is **invisible**, making detection extremely difficult thanks to **sophisticated systems**:
+Iris C2 ensures that all **operations remain completely undetected**. The system is **designed for stealth**, making detection almost **impossible** through the use of advanced evasion techniques:
 
-- **Advanced Obfuscation** to avoid code analysis.
-- **Dropper System** to evade detection during deployment.
-- **Ultra-Efficient Parsing** to bypass security mechanisms and avoid detection by antivirus programs.
+- 🔒 **Advanced Obfuscation**: Keeps the **code hidden** from traditional detection methods.
+- 🛑 **Dropper System**: Installs malware while **avoiding detection** during deployment.
+- 🧹 **Ultra-Efficient Parsing**: Continuously **bypasses security measures**, preventing detection by antivirus software and firewalls.
 
 <p align="center">
-  <img src="https://github.com/mael0salah/MAEL0SALAH/blob/main/LINE.PNG?raw=true" />
+  <img src="https://github.com/mael0salah/MAEL0SALAH/blob/main/LINE.PNG?raw=true" alt="Line" />
 </p>
 
-### ⚠️・**Disclaimer** :
-**Iris C2** is intended solely for **educational purposes**. We do not condone or support illegal activities, and any misuse of this tool is **solely the responsibility of the user**. It is crucial that you adhere to the ethical use of the knowledge shared and always respect privacy laws.
+### ⚠️・Disclaimer :
 
-### 📜・**Credits** :
-Special thanks to all founder and community members for their insights and collaboration.
+**Iris C2** is intended solely for **educational purposes**. We strongly **discourage illegal use** of this tool. Misuse of this infrastructure is **solely the responsibility of the user**. Always adhere to ethical practices, respect privacy laws, and never engage in malicious activity.
+
+### 📜・Credits :
+
+Special thanks to all the **founders**, **contributors**, and **community members** for their **valuable insights** and **collaboration**. 🌟
+
+---
