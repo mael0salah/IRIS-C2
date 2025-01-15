@@ -1,9 +1,5 @@
 <h1 align="center">Iris C2 🚀</h1>
 
-<p align="center">
-  <img src="https://github.com/mael0salah/MAEL0SALAH/blob/main/LINE.PNG?raw=true" alt="Line" />
-</p>
-
 ## 🌐・Command and Control (C2) Infrastructure :
 
 **Iris C2** is a **next-generation C2 infrastructure**, designed to orchestrate **botnets** and/or **dedicated servers** with **remarkable efficiency**. The goal? To stealthily **steal sensitive information** without the victims' knowledge and send it to a central server equipped with the following powerful tools:
@@ -12,10 +8,6 @@
 - **💰 Crypto-Miner XMR** : Stealthy Monero mining using the infected machine.
 
 These tools work together to ensure **optimal exploitation** of infected machines or servers, all while staying **undetected**. 🔒
-
-<p align="center">
-  <img src="https://github.com/mael0salah/MAEL0SALAH/blob/main/LINE.PNG?raw=true" alt="Line" />
-</p>
 
 ## 🛠️・Features :
 
@@ -27,20 +19,12 @@ Iris C2 is packed with an arsenal of **advanced features** for efficient and dis
 - **🔐 Stealer** : Extract **confidential data** such as passwords, tokens, and other private information.
 - **💰 Crypto-Miner XMR** : Silent **Monero mining**, harnessing the power of compromised systems to generate profit.
 
-<p align="center">
-  <img src="https://github.com/mael0salah/MAEL0SALAH/blob/main/LINE.PNG?raw=true" alt="Line" />
-</p>
-
 ### 🕶️・**Discretion and Security** :
 Maintaining **invisibility** is a core feature of **Iris C2**. The system employs the latest **security evasion techniques** to stay undetectable:
 
 - 🔒 **Advanced Obfuscation** : Makes the malicious code **virtually invisible** to analysis tools.
 - 🛑 **Dropper** : Deploys the malware on the victim’s system **without triggering any alarms**.
 - 🧹 **Ultra-Efficient Parsing** : Circumvents detection by security software and firewalls, ensuring smooth execution.
-
-<p align="center">
-  <img src="https://github.com/mael0salah/MAEL0SALAH/blob/main/LINE.PNG?raw=true" alt="Line" />
-</p>
 
 ## 🖥️・Remote Management :
 
@@ -51,10 +35,6 @@ The **C2 server** acts as the **centralized brain**, sending **real-time command
 - Manages and updates the **dedicated servers**.
 - Automates the entire **infection and exploitation process**.
 
-<p align="center">
-  <img src="https://github.com/mael0salah/MAEL0SALAH/blob/main/LINE.PNG?raw=true" alt="Line" />
-</p>
-
 ## 🏴‍☠️・Invisibility and Undetectability :
 
 Iris C2 ensures that all **operations remain completely undetected**. The system is **designed for stealth**, making detection almost **impossible** through the use of advanced evasion techniques:
@@ -62,10 +42,6 @@ Iris C2 ensures that all **operations remain completely undetected**. The system
 - 🔒 **Advanced Obfuscation**: Keeps the **code hidden** from traditional detection methods.
 - 🛑 **Dropper System**: Installs malware while **avoiding detection** during deployment.
 - 🧹 **Ultra-Efficient Parsing**: Continuously **bypasses security measures**, preventing detection by antivirus software and firewalls.
-
-<p align="center">
-  <img src="https://github.com/mael0salah/MAEL0SALAH/blob/main/LINE.PNG?raw=true" alt="Line" />
-</p>
 
 ### ⚠️・Disclaimer :
 
