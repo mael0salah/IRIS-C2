@@ -27,6 +27,10 @@ Iris C2 is packed with an arsenal of **advanced features** for efficient and dis
 - **🔐 Stealer** : Extract **confidential data** such as passwords, tokens, and other private information.
 - **💰 Crypto-Miner XMR** : Silent **Monero mining**, harnessing the power of compromised systems to generate profit.
 
+<p align="center">
+  <img src="https://github.com/mael0salah/MAEL0SALAH/blob/main/LINE.PNG?raw=true" alt="Line" />
+</p>
+
 ### 🕶️・**Discretion and Security** :
 Maintaining **invisibility** is a core feature of **Iris C2**. The system employs the latest **security evasion techniques** to stay undetectable:
 
